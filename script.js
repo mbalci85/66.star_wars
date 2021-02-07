@@ -29,7 +29,3 @@ starWars('films');
 // starWars('people');
 // starWars('vehicles');
 // starWars('starships');
-
-const starWarsCount = () => {
-	fetch(url);
-};
